@@ -3,7 +3,7 @@
 <p>I am Paolo, a passionate web developer.😎</p>
 <p>Below, you will find my playground consisting of replicas of existing sites and tutorials on various web development languages.✌️</p>
 <div align=center>
-    <p><strong>Contact:</strong></p>
+    <p><strong>Contact me:</strong></p>
     <a href="mailto:p.suero@outlook.it">
         <img width=50px  height=50px src="https://github.com/p-suero/p-suero/blob/master/img/outlook.jpg" alt="">
     </a>
