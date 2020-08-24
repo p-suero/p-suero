@@ -5,9 +5,9 @@
 <div align=center>
     <p>Contact me:</p>
     <a href="mailto:p.suero@outlook.it">
-        <img width=50px  height=50px src="https://github.com/p-suero/p-suero/blob/master/img/outlook.png" alt="">
+        <img src="https://github.com/p-suero/p-suero/blob/master/img/outlook.png" alt="">
     </a>
     <a href="https://www.linkedin.com/in/paolo-suero/">
-        <img width=50px height=50px src="https://github.com/p-suero/p-suero/blob/master/img/linkedin.png" alt="">
+        <img src="https://github.com/p-suero/p-suero/blob/master/img/linkedin.png" alt="">
     </a>
 <div>
