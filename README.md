@@ -1,5 +1,4 @@
-<h2>Hi everyone </h2>
-<p>Hi everyone.✋</p>
+<h2>Hi everyone✋ </h2>
 <p>I am Paolo, a passionate web developer.😎</p>
 <p>Below, you will find my playground consisting of replicas of existing sites and tutorials on various web development languages.✌️</p>
 <div align=center>
