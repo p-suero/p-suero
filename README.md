@@ -1,6 +1,6 @@
 <p>Hi everyone✋ </p>
 <p>I am Paolo, a passionate web developer.😎</p>
-<p> I am currently deepening my knowledge in the field of web development both for what concerns the front-end and back-and languages📚 </p>
+<p> I am currently deepening my knowledge in the field of web development, both as regards the front-end and back-end languages.📚 </p>
 <p>Below, you will find my playground consisting of replicas of existing sites and rewievs on various web development languages.✌️</p>
 <div align=center>
     <p><strong>Contact me:</strong></p>
