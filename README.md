@@ -1,6 +1,7 @@
-<h2>Hi everyone✋ </h2>
+<p>Hi everyone✋ </p>
 <p>I am Paolo, a passionate web developer.😎</p>
-<p>Below, you will find my playground consisting of replicas of existing sites and tutorials on various web development languages.✌️</p>
+<p> I am currently deepening my knowledge in the field of web development both for what concerns the front-end and back-and languages📚 </p>
+<p>Below, you will find my playground consisting of replicas of existing sites and rewievs on various web development languages.✌️</p>
 <div align=center>
     <p><strong>Contact me:</strong></p>
     <a href="mailto:p.suero@outlook.it">
